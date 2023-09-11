@@ -1,6 +1,6 @@
 <h1 style="text-align: center;">
 	<a href=''>
-		Stage One App
+		Stage One
 	</a>
 </h1>
 

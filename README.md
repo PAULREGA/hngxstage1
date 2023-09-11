@@ -4,7 +4,6 @@
 	</a>
 </h1>
 
-Application that ...
 
 ---
 ## USAGE
